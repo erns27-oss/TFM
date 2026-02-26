@@ -1,0 +1,31 @@
+Indicator,Energy_Type,Technology,Unit,decade,value
+Electricity Generation,Total Non-Renewable,Fossil fuels,Gigawatt-hours (GWh),2000,121173715.714665
+Electricity Generation,Total Renewable,Bioenergy,Gigawatt-hours (GWh),2000,2050780.123
+Electricity Generation,Total Renewable,Hydropower (excl. Pumped Storage),Gigawatt-hours (GWh),2000,29408188.93
+Electricity Generation,Total Renewable,Solar energy,Gigawatt-hours (GWh),2000,62705.188
+Electricity Generation,Total Renewable,Wind energy,Gigawatt-hours (GWh),2000,1159280.354
+Electricity Installed Capacity,Total Non-Renewable,Fossil fuels,Megawatt (MW),2000,27597265.058
+Electricity Installed Capacity,Total Renewable,Bioenergy,Megawatt (MW),2000,433855.934
+Electricity Installed Capacity,Total Renewable,Hydropower (excl. Pumped Storage),Megawatt (MW),2000,7980866.856
+Electricity Installed Capacity,Total Renewable,Solar energy,Megawatt (MW),2000,69535.519
+Electricity Installed Capacity,Total Renewable,Wind energy,Megawatt (MW),2000,646883.202
+Electricity Generation,Total Non-Renewable,Fossil fuels,Gigawatt-hours (GWh),2010,162477629.4500009
+Electricity Generation,Total Renewable,Bioenergy,Gigawatt-hours (GWh),2010,4347891.933
+Electricity Generation,Total Renewable,Hydropower (excl. Pumped Storage),Gigawatt-hours (GWh),2010,39748203.458
+Electricity Generation,Total Renewable,Solar energy,Gigawatt-hours (GWh),2010,2826766.396
+Electricity Generation,Total Renewable,Wind energy,Gigawatt-hours (GWh),2010,8237925.352
+Electricity Installed Capacity,Total Non-Renewable,Fossil fuels,Megawatt (MW),2010,39078276.165042
+Electricity Installed Capacity,Total Renewable,Bioenergy,Megawatt (MW),2010,954831.674
+Electricity Installed Capacity,Total Renewable,Hydropower (excl. Pumped Storage),Megawatt (MW),2010,10930659.57
+Electricity Installed Capacity,Total Renewable,Solar energy,Megawatt (MW),2010,2571699.037
+Electricity Installed Capacity,Total Renewable,Wind energy,Megawatt (MW),2010,3915433.529
+Electricity Generation,Total Non-Renewable,Fossil fuels,Gigawatt-hours (GWh),2020,52459532.246709
+Electricity Generation,Total Renewable,Bioenergy,Gigawatt-hours (GWh),2020,1804167.912
+Electricity Generation,Total Renewable,Hydropower (excl. Pumped Storage),Gigawatt-hours (GWh),2020,13381615.352
+Electricity Generation,Total Renewable,Solar energy,Gigawatt-hours (GWh),2020,3194493.617
+Electricity Generation,Total Renewable,Wind energy,Gigawatt-hours (GWh),2020,5521891.1620000005
+Electricity Installed Capacity,Total Non-Renewable,Fossil fuels,Megawatt (MW),2020,18039857.166884
+Electricity Installed Capacity,Total Renewable,Bioenergy,Megawatt (MW),2020,569403.967
+Electricity Installed Capacity,Total Renewable,Hydropower (excl. Pumped Storage),Megawatt (MW),2020,5088981.184
+Electricity Installed Capacity,Total Renewable,Solar energy,Megawatt (MW),2020,4118164.275
+Electricity Installed Capacity,Total Renewable,Wind energy,Megawatt (MW),2020,3490912.403
